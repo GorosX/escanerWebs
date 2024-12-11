@@ -11,7 +11,7 @@ git clone https://github.com/GorosX/escanerWebs.git
 2. Entrar al directorio
 
 ```
-cd  escanerWeb
+cd escanerWeb
 ```
 
 3. Darle permisos de ejecución
