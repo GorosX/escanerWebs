@@ -1,6 +1,6 @@
 # escanerWebs
 
-Este script sirve para escanear las páginas web de una red
+Este script sirve para escanear las páginas web de una red de clase A (10.11.0.X), en caso de que nuestra red sea diferente, modificaremos el script poniendo el tipo de red que queremos escanear
 
 Pasos para ejecutar el script:
 
