@@ -1,3 +1,28 @@
 # escanerWebs
 
-Este script se debe ejecutar en la consola web, es decir, en la consola que tenemos cuando entramos al "Inspeccionar"
+Pasos para ejecutar el script:
+
+1. Clonar el repositorio
+
+```
+git clone https://github.com/GorosX/escanerWebs.git
+```
+
+2. Entrar al directorio
+
+```
+cd  escanerWeb
+```
+
+3. Darle permisos de ejecución
+
+```
+chmod +x escanerWeb.sh
+```
+
+4. Ejecutar el script
+
+```
+./escanerWeb.sh
+```
+
