@@ -1,5 +1,7 @@
 # escanerWebs
 
+Este script sirve para escanear las páginas web de una red
+
 Pasos para ejecutar el script:
 
 1. Clonar el repositorio
